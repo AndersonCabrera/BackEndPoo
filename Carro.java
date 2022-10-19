@@ -49,13 +49,3 @@ public class Carro {
 
    }
 }
-
-/**
- * 
- * Formas de escrever:
- * PascalCase: MeuCachorro.java, NotaFiscal.java (NomeDaClasse,
- * NomeDoArquivo.java)
- * camelCase: notaFiscal, nota, (variaveis, atributos, gets e sets, metodos)
- * 
- * 
- */
